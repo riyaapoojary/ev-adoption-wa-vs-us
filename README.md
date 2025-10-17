@@ -185,9 +185,3 @@ The notebook generates the following figures (representative titles):
 - Additional policy context: Washington State **Clean Alternative Fuel Vehicle (CAFV)** program materials.
 
 > If you used newer/alternate sources, list them here explicitly with links and access dates.
-
----
-
-## License
-
-If you intend to share this analysis, include a license (e.g., MIT). Otherwise, remove this section.
